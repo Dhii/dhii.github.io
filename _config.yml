@@ -1,2 +1,5 @@
 theme: jekyll-theme-tactile
 permalink: pretty
+collections:
+  projects:
+    output: true
