@@ -3,3 +3,9 @@ permalink: pretty
 collections:
   projects:
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page
