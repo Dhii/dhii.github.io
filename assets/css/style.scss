@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$color_accent: #00a733;
+
+
+h3 {
+  color: #303030;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: $color_accent;
+}
