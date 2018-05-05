@@ -1,7 +1,7 @@
 ---
 title: Map
 description: An iterable container implementation
-layout: page
+layout: default
 ---
 
 Standards: [PSR-11][], [Dhii iterator][].
