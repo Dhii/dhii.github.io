@@ -6,7 +6,7 @@ package_name: dhii/map
 package_url: https://packagist.org/packages/dhii/map
 ---
 
-Package: [{{ page.package_name }}][{{ page.package_url }}]
+Package: [{{ page.package_name }}][package-url]
 
 Standards:
 - [PSR-11][]
