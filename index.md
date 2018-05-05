@@ -12,4 +12,4 @@ Because most of the Dhii standards are developed out of some necessity of Dhii m
 
 [PHP-FIG]:                            https://www.php-fig.org/
 
-[/php/projects]:                      {% link php/projects.md %}
+[php/projects]:                      {% link php/projects.md %}
