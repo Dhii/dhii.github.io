@@ -8,4 +8,4 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: page
+      layout: default
