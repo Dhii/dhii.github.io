@@ -50,7 +50,7 @@ $allValues = iterator_to_array($config);
 
 [PSR-11]:                       https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-11-container.md
 [Dhii Iterator]:                https://packagist.org/packages/dhii/iterator-interface
-[Dhii Config]:                  https://github.com/Dhii/config-interface
+[Dhii Config]:                  https://packagist.org/packages/dhii/config-interface
 [Dhii Map]:                     {% link _projects/map.md %}
 [dhii/composite-container]:     https://packagist.org/packages/dhii/composite-container
 [package-url]:                  {{ page.package_url }}
