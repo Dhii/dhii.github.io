@@ -17,13 +17,13 @@ a:active {
   color: $color_accent;
 }
 
-.horizontal-menu ui li {
+.horizontal-menu ul li {
   list-style: none;
   display: inline-block;
   margin-left: 20px;
   margin-rigt: 0;
 }
 
-.horizontal-menu ui li:first-of-type {
+.horizontal-menu ul li:first-of-type {
   margin-left: 0;
 }
