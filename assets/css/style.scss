@@ -28,7 +28,7 @@ a:active {
 }
 
 .horizontal-menu ul li {
-  @include @horizontal-menu-item;
+  @include horizontal-menu-item;
 }
 
 .horizontal-menu ul li:first-of-type {
