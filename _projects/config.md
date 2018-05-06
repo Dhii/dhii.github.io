@@ -7,13 +7,8 @@ package_name: dhii/config
 package_url: https://packagist.org/packages/dhii/config
 ---
 
-<section id="project-attributes">
-Package: [`{{ page.package_name }}`][package-url]
-Standards: 
-- [PSR-11][]
-- [Dhii Config][]
-- [Dhii Map][]
-</section>
+**Package**: [`{{ page.package_name }}`][package-url]  
+**Standards**: [PSR-11][], [Dhii Config][], [Dhii Map][]
 
 ## Details
 ### Interop
