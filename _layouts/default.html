@@ -22,7 +22,7 @@
         </header>
         <section id="main-menu" class="horizontal-menu">
           <ul>
-            <li><a href="{{ site.baseurl }}">Home</a></li>
+            <li><a href="{{ site.url }}">Home</a></li>
             <li><a href="{% link php/projects.md %}">PHP Projects</a></li>
         </ul>
 	</section>
@@ -48,7 +48,7 @@
         {% if site.github.is_project_page %}
           {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
         {% endif %}
-          <a href="{{ site.baseurl }}">Dhii</a>.
+          <a href="{{ site.url }}">Dhii</a>.
         </footer>
 
       </div>
