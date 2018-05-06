@@ -17,8 +17,6 @@ a:active {
   color: $color_accent;
 }
 
-.horizontal-menu ul li 
-
 @mixin horizontal-menu-item {
   list-style: none;
   display: inline-block;
