@@ -1,5 +1,6 @@
 ---
 title: PHP Projects
+description: Projects in the PHP focus area
 ---
 
 {% assign projects = site.projects | sort: 'title' %}
