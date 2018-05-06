@@ -16,3 +16,17 @@ a:hover,
 a:active {
   color: $color_accent;
 }
+
+.horizontal-menu ul {
+  list-style: none;
+}
+
+.horizontal-menu ui li {
+  display: inline-block;
+  margin-left: 20px;
+  margin-rigt: 0;
+}
+
+.horizontal-menu ui li:first-of-type {
+  margin-left: 0;
+}
