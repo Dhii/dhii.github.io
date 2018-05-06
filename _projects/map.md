@@ -7,13 +7,8 @@ package_name: dhii/map
 package_url: https://packagist.org/packages/dhii/map
 ---
 
-Package: [`{{ page.package_name }}`][package-url]
-
-Standards:
-- [PSR-11][]
-- [Dhii Config][]
-- [Dhii Collection][]
-- [Dhii Iterator][]
+**Package**: [`{{ page.package_name }}`][package-url]  
+**Standards**: [PSR-11][], [Dhii Config][], [Dhii Collection][], [Dhii Iterator][]
 
 ## Details
 The primary purpose of this package is to provide a concrete implementation of an iterable container. Because maps implement `ContainerInterface`, they can be used to retrieve values in an interoperable way. At the same time, because all [Dhii Iterator][] implementations are `Traversable`, it is possible to retrieve all values of a map, which is useful for serialization, making it possible to cache an entire map. By extending a map, it could even be possible to generate the values in a map, such as from definitions, or from another data source, like a database or a REST API.
