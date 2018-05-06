@@ -41,5 +41,5 @@ a:active {
 }
 
 #projet-attributes ul li {
-  @include @horizontal-menu-item;
+  @include horizontal-menu-item;
 }
