@@ -1,6 +1,6 @@
 ---
 title: WP I18n
-description: A standard OOP implementatin of internationalization for WordPress
+description: A standard OOP implementation of internationalization for WordPress
 layout: default
 project_type: php
 package_name: dhii/wp-i18n
